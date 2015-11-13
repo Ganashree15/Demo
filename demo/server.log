@@ -1,0 +1,24 @@
+11:30:17.328 358  [main] INFO  demo.DemoException
+                - before execution
+11:30:17.475 505  [main] INFO  demo.DemoException
+                - afterExecution:
+11:30:17.503 533  [main] INFO  demo.DemoException
+                - before execution
+11:31:40.876 407  [main] INFO  demo.DemoException
+                - before execution
+11:31:40.890 421  [main] INFO  demo.DemoException
+                - afterExecution:
+11:31:40.907 438  [main] INFO  demo.DemoException
+                - before execution
+11:32:33.413 380  [main] INFO  demo.DemoException
+                - before execution
+11:32:33.437 404  [main] INFO  demo.DemoException
+                - afterExecution:gana
+11:32:33.455 422  [main] INFO  demo.DemoException
+                - before execution
+11:41:16.968 480  [main] INFO  demo.DemoException
+                - before execution
+11:41:16.987 499  [main] INFO  demo.DemoException
+                - afterExecution:hello, gana
+11:41:17.003 515  [main] INFO  demo.DemoException
+                - before execution
